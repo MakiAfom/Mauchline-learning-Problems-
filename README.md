@@ -1,2 +1,2 @@
-# Mauchline-learning-Problems-
+# Machline-learning-Problems-
 This are List of Collective Machine Learning problems 
